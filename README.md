@@ -2,7 +2,7 @@
 ### Founder of **Nebula Systems** | Design. Develop. Deploy. | Large-Scale Transformation | Kubernetes 
 
 Welcome to my GitHub!  
-I build open‑source tools, automation frameworks, and cloud-native solutions that help teams move faster, scale smarter, and operate reliably.
+I build open‑source tools, automation frameworks, and solutions that help teams move faster, scale smarter, and operate reliably.
 
 ---
 
