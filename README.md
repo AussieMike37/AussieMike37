@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Mike — Cloud, Data, AI Leader | Architect & Builder | No-BS Problem Solver
-### Founder of **Nebula Systems** | Design. Develop. Deploy. | Large-Scale Transformation | Kuburnetes 
+### Founder of **Nebula Systems** | Design. Develop. Deploy. | Large-Scale Transformation | Kubernetes 
 
 Welcome to my GitHub!  
 I build open‑source tools, automation frameworks, and cloud-native solutions that help teams move faster, scale smarter, and operate reliably.
