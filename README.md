@@ -15,17 +15,18 @@ I build open‑source tools, automation frameworks, and solutions that help team
 
 ---
 
-## 🧢 **AussieMike Consulting**  
+## 🧢 **Nebula Systems Consulting**  
 Helping organisations modernise through:
 
-- Kubernetes platform design, deployment & optimisation  
-- Cloud migration and architecture (AWS / Azure / hybrid)  
+- Kubernetes platform design, deployment & optimisation (Regulated Industries)
+- Fixed price, fixed scope offerings (Go-Live assurance)
+- Cloud migration and architecture (Azure/ AWS / hybrid)  
 - DevOps, GitOps & automation frameworks  
 - Enterprise transformation leadership  
 - CI/CD systems, containerisation & workload modernisation  
 - Technical strategy & solution architecture  
 
-👉 **Business Website:** https://nebulasystems.com.au  
+👉 **Business Website:** https://www.nebulasystems.com.au  
 
 ---
 
@@ -34,7 +35,7 @@ Helping organisations modernise through:
 - Kubernetes (multi‑cluster, HA design, operators, service mesh, GitOps)  
 - Docker & OCI image pipelines  
 - Terraform, Helm, Kustomize  
-- GitHub Actions, ArgoCD, FluxCD  
+- GitHub Actions, ArgoCD 
 - Azure, AWS, hybrid architecture  
 - Observability: Prometheus, Grafana, Loki, OpenTelemetry  
 - Zero‑trust patterns, API platforms, modern security models
@@ -58,11 +59,12 @@ Architecture diagrams, cloud patterns, and real-world transformation examples.
 
 ## 🔗 Connect With Me  
 - **LinkedIn:** https://linkedin.com/in/michael-grants  
-- **Business:** https://nebulasystems.com.au  
+- **Business:** https://www.nebulasystems.com.au  
 - **GitHub:** Explore my repos, fork anything, open issues, or reach out.
 
 ---
 
 ## 🦘 Signature  
-Thanks for stopping by — more Kubernetes content, IaC frameworks and cloud automation tools coming soon!  
+Thanks for stopping by — much more coming soon!
+
 **– Mike (AussieMike37)** 
