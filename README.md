@@ -7,11 +7,11 @@ I build open‑source tools, automation frameworks, and solutions that help team
 ---
 
 ## 🚀 About Me  
-- 🌏 Australian cloud & DevOps engineer with deep experience leading large transformation programs across government and enterprise.  
-- 🛠️ Strong hands‑on expertise in **Kubernetes**, platform engineering, cloud architecture, and infrastructure automation.  
+- 🌏 Australian/American tech leader with deep experience leading large transformation programs across government and enterprise.  
+- 🛠️ Strong hands‑on expertise in **Kubernetes**, platform engineering, cloud architecture, infrastructure automation, Data & AI/ML.  
 - 🛡️ Background in mission‑critical environments including defence, public safety, and large program delivery.  
 - 🧩 Passionate about building clean, reusable, open‑source solutions for the community.  
-- 🤝 Now running **AussieMike Consulting**, helping organisations modernise and scale their cloud + DevOps capabilities.
+- 🤝 Now running **Nebula Systems**, where we Design. Develop. Deliver customer solutions.
 
 ---
 
