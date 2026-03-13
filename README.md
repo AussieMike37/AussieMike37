@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Mike — a Cloud, DevOps & Kubernetes Specialist 🇦🇺  
-### Founder of **AussieMike Consulting** | Enterprise Architecture | Large-Scale Transformation
+# 👋 Hi, I’m Mike — Cloud, Data, AI Leader | Architect & Builder | No-BS Problem Solver  🇦🇺  
+### Founder of **Nebula Systems** | Design. Develop. Deploy. | Large-Scale Transformation | Kuburnetes 
 
 Welcome to my GitHub!  
 I build open‑source tools, automation frameworks, and cloud-native solutions that help teams move faster, scale smarter, and operate reliably.
