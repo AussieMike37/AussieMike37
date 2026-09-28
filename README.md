@@ -1,70 +1,100 @@
-## 👋 Hi, I’m Mike — Cloud, Data, AI Leader | Architect & Builder | No-BS Problem Solver
-### Founder of **Nebula Systems** | Design. Develop. Deploy. | Large-Scale Transformation | Kubernetes 
+## 👋 Hi, I’m Mike — Founder | AI Builder | Automation Architect | No-BS Problem Solver
+### Founder of **topicAI** | Workflow automation with AI | End-to-End AI for SMBs
 
-Welcome to my GitHub!  
-I build open‑source tools, automation frameworks, and solutions that help teams move faster, scale smarter, and operate reliably.
+Welcome to my GitHub!
 
----
+I’m building **topicAI** — an end-to-end AI workflow automation company built specifically for small and medium-sized businesses.
 
-## 🚀 About Me  
-- 🌏 Australian/American tech leader with deep experience leading large transformation programs across government and enterprise.  
-- 🛠️ Strong hands‑on expertise in **Kubernetes**, platform engineering, cloud architecture, infrastructure automation, Data & AI/ML.  
-- 🛡️ Background in mission‑critical environments including defence, public safety, and large program delivery.  
-- 🧩 Passionate about building clean, reusable, open‑source solutions for the community.  
-- 🤝 Now running **Nebula Systems**, where we Design. Develop. Deliver customer solutions.
+Our goal is simple:
 
----
+> **Make powerful AI automation accessible to SMBs without the complexity, cost or massive upfront projects traditionally associated with enterprise technology.**
 
-## 🧢 **Nebula Systems Consulting**  
-Helping organisations modernise through:
+We design, build, deploy and continuously improve AI-powered workflows — all under a simple subscription model.
 
-- Kubernetes platform design, deployment & optimisation (Regulated Industries)
-- Fixed price, fixed scope offerings (Go-Live assurance)
-- Cloud migration and architecture (Azure/ AWS / hybrid)  
-- DevOps, GitOps & automation frameworks  
-- Enterprise transformation leadership  
-- CI/CD systems, containerisation & workload modernisation  
-- Technical strategy & solution architecture  
-
-👉 **Business Website:** https://www.nebulasystems.com.au  
+Think **Netflix for AI automation**: subscribe, use the platform and services, and continuously get more automation without a huge upfront implementation bill.
 
 ---
 
-## 🔧 Tech & Tools I Work With  
-**Core Specialties**  
-- Kubernetes (multi‑cluster, HA design, operators, service mesh, GitOps)  
-- Docker & OCI image pipelines  
-- Terraform, Helm, Kustomize  
-- GitHub Actions, ArgoCD 
-- Azure, AWS, hybrid architecture  
-- Observability: Prometheus, Grafana, Loki, OpenTelemetry  
-- Zero‑trust patterns, API platforms, modern security models
+## 🚀 About topicAI
+
+**topicAI** helps SMBs identify, build and automate the workflows that consume valuable time and resources.
+
+We provide the **end-to-end capability** — from identifying opportunities through to building, deploying, integrating and supporting the automation.
+
+### 🤖 What We Do
+
+- AI-powered workflow automation
+- AI agents and intelligent processes
+- Business process automation
+- Document and data processing
+- System and API integrations
+- Custom AI solutions
+- Workflow design and optimisation
+- Ongoing automation management and improvement
+
+We don't just provide an AI tool and leave you to figure it out.
+
+**We design it. Build it. Deploy it. Run it. Improve it.**
 
 ---
 
-## 📂 Featured Repositories (More Coming Soon)  
-### 🛳️ `k8s-starter-kit`  
-A practical Kubernetes starter platform with templates, manifests, GitOps patterns, and cluster examples.
+## 💡 Built for SMBs
 
-### ⚙️ `devops-automation-tools`  
-Reusable automation scripts, IaC patterns, and CI/CD building blocks for modern pipelines.
+Enterprise businesses have had access to automation, AI teams and expensive transformation programs for years.
 
-### 📦 `docker-templates`  
-Production-ready Dockerfile templates and secure build patterns.
+SMBs shouldn't need a million-dollar technology budget to benefit from the same capabilities.
 
-### 🗂️ `cloud-portfolio`  
-Architecture diagrams, cloud patterns, and real-world transformation examples.
+That's why topicAI is focused specifically on **small and medium-sized businesses**.
 
----
+We aim to make AI automation:
 
-## 🔗 Connect With Me  
-- **LinkedIn:** https://linkedin.com/in/michael-grants  
-- **Business:** https://www.nebulasystems.com.au  
-- **GitHub:** Explore my repos, fork anything, open issues, or reach out.
+- 💰 Affordable
+- ⚡ Fast to implement
+- 🧩 Easy to adopt
+- 🔄 Continuously improving
+- 🛠️ Fully managed
+- 📈 Scalable as the business grows
 
 ---
 
-## 🦘 Signature  
-Thanks for stopping by — much more coming soon!
+## 📺 The "Netflix" Model
 
-**– Mike (AussieMike37)** 
+Traditional automation projects can mean:
+
+**Large upfront cost → long implementation → handover → maintenance bill**
+
+topicAI takes a different approach:
+
+**Subscribe → Automate → Use → Improve → Keep scaling**
+
+Instead of charging businesses a massive upfront project fee, topicAI operates around a **simple recurring subscription model**.
+
+This means businesses can access an end-to-end AI automation capability without needing to hire an AI team, employ specialist developers or commit to a large transformation project upfront.
+
+The subscription model is designed to let SMBs start small and progressively automate more of their business as they see value.
+
+---
+
+## 🧠 End-to-End AI Automation
+
+topicAI covers the entire automation lifecycle.
+
+### 1. 🔍 Discover
+Identify repetitive, expensive or time-consuming workflows that are good candidates for automation.
+
+### 2. 🧠 Design
+Map the workflow and determine where AI, automation and integrations can remove manual work.
+
+### 3. 🛠️ Build
+Develop the AI workflow, integrations, agents and supporting infrastructure.
+
+### 4. 🚀 Deploy
+Put the automation into production and connect it to the systems the business already uses.
+
+### 5. 📊 Monitor
+Track performance, reliability and business outcomes.
+
+### 6. 🔄 Improve
+Continuously optimise and expand the automation as the business evolves.
+
+**End-to-end. One partner. One subscription.**
